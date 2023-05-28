@@ -1,0 +1,14 @@
+#storing data such as image title, image type image size and text extracted
+import sqlite3 as sql
+def add_data(title, content):  
+  try:
+    # Connecting to database
+    con = sql.connect('shot_database.db')
+    # Getting cursor
+    c =  con.cursor() 
+    # Adding data
+    c.execute("INSERT INTO Shots (title, content) VALUES (%s, %s)" %(title, content))
+    # Applying changes
+    con.commit() 
+  except:
+    print("An error has occured, may be wrong details entered")

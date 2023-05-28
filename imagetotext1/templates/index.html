@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="convert imagetotext, extract text, extract text in image, extract text image python, image to text python" />
+    <meta name="description" content="ImageToTextConverter it is web application created to extract text from any type of image using python" />
+    <title>ImageToTextConverter</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+</head>
+
+<body id="dark-mode">   
+        <nav class="navbar navbar-expand-lg bg-dark sticky-top">
+        <div class="container">
+            <a style="text-decoration:none;" class="navbar-brand text-warning" href="/index/"><b>ImageToTextConverter</b></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fa fa-bars" aria-hidden="true"></i>
+            </button>
+            <div class="collapse navbar-collapse menu-main" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto menu-item">
+                    <li class="nav-item">
+                        <a style="text-decoration:none;" class="nav-link text-light" href="{{url_for('about')}}">about</a>
+                    </li>
+                    <li class="nav-item">
+                        <a style="text-decoration:none;" class="nav-link text-light" href="{{url_for('contact')}}">contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a style="text-decoration:none;" class="nav-link text-light" href="{{url_for('help')}}">help</a>
+                    </li>
+                </ul>
+                </div>
+        </div>
+    </nav>
+
+<section  id="banner">
+    <div style="height: 700px;"
+    class="d-flex align-items-center justify-content-center bg-secondary text-center">
+    <div class="container-fluid h-60 w-50 text-center bg-dark text-light border border-primary border-5">
+                    <br>
+                    <hr>
+                    <h3 class="text-primary">Upload image</h3>
+                    <hr>
+              <form action = "{{url_for('upload')}}" method="post" enctype="multipart/form-data">
+    <input  type="file" name="image_file" value="{{request.form.image_file}}" id="fileToUpload">
+    <input  type="submit" class="btn btn-warning" value="Upload" name="submit" id="submit"></form>
+    <br>
+    <br>
+        </div></div>
+            </section>
+    <!--JavaScript -->
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+</body>
+</html>

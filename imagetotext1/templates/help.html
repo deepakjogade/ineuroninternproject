@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>ImageToTextConverter - Help page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+</head>
+
+    <body id="dark-mode">
+        <nav class="navbar navbar-expand-lg bg-dark sticky-top">
+            <div class="container">
+                <a style="text-decoration:none;" class="navbar-brand text-warning" href="/"><b>ImageToTextConverter</b></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fa fa-bars" aria-hidden="true"></i>
+                </button>
+                <div class="collapse navbar-collapse menu-main" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto menu-item">
+                        <li class="nav-item">
+                            <a style="text-decoration:none;" class="nav-link text-light" href="{{url_for('index')}}">home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a style="text-decoration:none;" class="nav-link text-light" href="{{url_for('about')}}">about</a>
+                        </li>
+                        <li class="nav-item">
+                            <a style="text-decoration:none;" class="nav-link text-light" href="{{url_for('contact')}}">contact</a>
+                        </li>
+                        <li class="nav-item">
+                            <a style="text-decoration:none;" class="nav-link text-light" href="{{url_for('help')}}">help</a>
+                        </li>
+                    </ul>
+                    </div>
+            </div>
+        </nav>
+<br>
+    <section id="banner">
+        <div class="container zindex">
+            <div class="row">
+                <div class="col-lg banner-txt">
+                   <h3 align="center">Image to Text Converter Help</h3>
+                   <p>
+                    Welcome to the Help page for our Image to Text Converter. Here, you will find answers to common questions and troubleshooting tips to assist you in using our converter effectively.
+                    </p>
+                    <ol>
+                        <li>
+                            How does the Image to Text Converter work?
+                    <br>
+                    Our Image to Text Converter utilizes Optical Character Recognition (OCR) technology to analyze the text in an image and convert it into editable text. The OCR algorithms analyze the image, recognize the characters, and extract the text, preserving the formatting as much as possible.
+                        </li>
+                        <li>Which image formats are supported?
+                            <br>
+                            Our converter supports various image formats, including JPEG, PNG, GIF, BMP, and TIFF. You can convert images from different sources such as scanned documents, photographs, screenshots, and more.</li>
+                        <li>
+                            How accurate is the OCR technology?
+                            <br>
+                            While our OCR technology is highly accurate, it may encounter challenges with certain image qualities, fonts, or complex layouts. Factors such as low image resolution, distorted text, or unusual fonts can affect the accuracy of the conversion. For optimal results, we recommend using clear and high-resolution images with standard fonts.
+                        </li>
+                        <li>Can I convert multiple images at once?
+                            <br>
+                            Yes, our Image to Text Converter supports batch processing, allowing you to convert multiple images simultaneously. Simply upload all the images you want to convert, and our tool will process them one by one.</li>
+                        <li>How do I select the language of the text in the image?
+                            <br>
+                            You can manually select the language of the text in the image from the language dropdown menu. If you're unsure of the language or the image contains text in multiple languages, you can choose the "Auto-Detect" option, and our converter will attempt to identify the language automatically.</li>
+                        <li>How can I edit the extracted text?
+                            <br>
+                            After the conversion, you will be able to preview the extracted text. If you need to make any changes or corrections, you can edit the text directly within the preview interface. Once you are satisfied with the edits, you can proceed to download the converted text file.</li>
+                        <li>What file formats are available for downloading the converted text?
+                            <br>
+                            Our Image to Text Converter allows you to download the converted text in various formats, including TXT, DOC, and PDF. Choose the format that best suits your needs and click the download button to save the file to your device.</li>
+                        <li>What measures are taken to ensure the security and privacy of my images and converted text?
+                            <br>
+                            We prioritize the security and privacy of our users. We do not store your uploaded images or the converted text on our servers. Your files are processed and discarded after the conversion is complete. For further details, please refer to our Privacy Policy.</li>
+                    </ol>
+                    
+                    <br>
+                    <p>
+                    If you have any additional questions or encounter any issues while using our Image to Text Converter, please don't hesitate to contact our customer support team. We are here to assist you and provide prompt solutions to your concerns.
+                    </p><br>
+
+                    <p>Thank you for using our Image to Text Converter. We hope it simplifies your workflow and enhances your productivity.</p>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+        <!-- JavaScript -->
+        <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    </body>
+</html>
+
+
+
+
+
+
+
+    

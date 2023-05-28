@@ -1,0 +1,27 @@
+© eo 6 0 06 0 0
+
+The device launches
+your app and creates
+an activity object.
+
+The activity object
+specifies a layout.
+
+The activity tells
+Android to display the
+layout onscreen.
+
+The user interacts
+with the layout that's
+displayed on the device.
+
+The activity responds
+to these interactions by
+running application code.
+
+The activity updates
+the display...
+
+...which the user sees
+
+on the device.

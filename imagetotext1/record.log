@@ -1,0 +1,1174 @@
+INFO:app:Homepage
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:35:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:35:30] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:35:30] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:35:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:35:30] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:04] "POST /upload/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:04] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:04] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:04] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:app:Homepage
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:35] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:35] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 15:37:35] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\deepa\\Desktop\\Image to text converter ineuron\\imagetotext1\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 693-599-143
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.34.89:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 987-585-976
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.34.89:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 987-585-976
+INFO:werkzeug: * Detected change in 'C:\\Users\\deepa\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\django\\db\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\deepa\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\django\\db\\models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\deepa\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\django\\db\\models\\fields\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 987-585-976
+INFO:werkzeug: * Detected change in 'C:\\Users\\deepa\\Desktop\\Image to text converter ineuron\\imagetotext1\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\deepa\\Desktop\\Image to text converter ineuron\\imagetotext1\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\deepa\\Desktop\\Image to text converter ineuron\\imagetotext1\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 18:12:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 18:12:08] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 18:12:08] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 18:12:08] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 18:12:08] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 18:12:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2023 12:14:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2023 12:14:55] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2023 12:14:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2023 12:14:55] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2023 12:14:55] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2023 12:14:55] "GET /static/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2023 12:14:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2023 12:16:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:26:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:26:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:26:51] "[32mGET /home HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:26:51] "GET /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:26:51] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:26:51] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:26:51] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:26:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:01] "POST /upload/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:01] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:01] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:01] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:16] "GET /gettext HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:39] "GET /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:39] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:39] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:39] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:41] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:41] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:41] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:41] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:41] "GET /static/images/demo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:29:41] "GET /static/images/test.jpg HTTP/1.1" 200 -
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:30:03] "POST /upload/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:30:03] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:30:03] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:30:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 17:30:03] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:49:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:49:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:49:32] "GET /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:49:32] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:49:32] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:49:32] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:49:32] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:49:33] "GET /static/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:55:37] "GET / HTTP/1.1" 200 -
+ERROR:app:Exception on /login [GET]
+Traceback (most recent call last):
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask_restful\__init__.py", line 271, in error_router
+    return original_handler(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\app.py", line 30, in login
+    return render_template('login.html')
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\templates\login.html", line 23, in top-level template code
+    <a href="{{ url_for('forgot') }}">click here</a><br>
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2034, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2023, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'forgot'. Did you mean 'login' instead?
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:55:43] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /signup [GET]
+Traceback (most recent call last):
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask_restful\__init__.py", line 271, in error_router
+    return original_handler(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\app.py", line 34, in signup
+    return render_template('signup.html')
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\templates\signup.html", line 23, in top-level template code
+    <a href="{{ url_for('forgot')}}">Login</a>
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2034, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2023, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'forgot'. Did you mean 'login' instead?
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:55:54] "[35m[1mGET /signup HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:56:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:56:09] "GET /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:56:09] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:56:09] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:56:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:56:09] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:56:10] "[36mGET /static/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /signup [GET]
+Traceback (most recent call last):
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask_restful\__init__.py", line 271, in error_router
+    return original_handler(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\app.py", line 34, in signup
+    return render_template('signup.html')
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\templates\signup.html", line 23, in top-level template code
+    <a href="{{ url_for('forgot')}}">Login</a>
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2034, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2023, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'forgot'. Did you mean 'login' instead?
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:56:25] "[35m[1mGET /signup HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /signup [GET]
+Traceback (most recent call last):
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask_restful\__init__.py", line 271, in error_router
+    return original_handler(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\app.py", line 34, in signup
+    return render_template('signup.html')
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\templates\signup.html", line 23, in top-level template code
+    <a href="{{ url_for('forgot')}}">Login</a>
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2034, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2023, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'forgot'. Did you mean 'login' instead?
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:57:08] "[35m[1mGET /signup HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /signup [GET]
+Traceback (most recent call last):
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask_restful\__init__.py", line 271, in error_router
+    return original_handler(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\app.py", line 34, in signup
+    return render_template('signup.html')
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\templates\signup.html", line 23, in top-level template code
+    <a href="{{ url_for('forgot')}}">Login</a>
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2034, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2023, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'forgot'. Did you mean 'login' instead?
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2023 23:57:09] "[35m[1mGET /signup HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:00:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:00:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:app:Exception on /login/ [GET]
+Traceback (most recent call last):
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask_restful\__init__.py", line 271, in error_router
+    return original_handler(e)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\app.py", line 32, in login
+    return render_template('login.html')
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\templates\login.html", line 23, in top-level template code
+    <a href="{{ url_for('forgot') }}">click here</a><br>
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2034, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\flask\app.py", line 2023, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "c:\Users\deepa\Desktop\Image to text converter ineuron\imagetotext1\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'forgot'. Did you mean 'login' instead?
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:00:09] "[35m[1mGET /login/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 206-875-388
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:03:34] "[35m[1mGET /login/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:03:35] "GET /login/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:03:35] "GET /login/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:03:35] "GET /login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:03:35] "[36mGET /login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\deepa\\Desktop\\Image to text converter ineuron\\imagetotext1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 206-875-388
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 206-875-388
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:06:24] "GET /login/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:06:28] "GET /forgot/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:06:36] "GET /signup/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:11] "GET /signup/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:11] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:11] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:11] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:19] "POST /signup/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:19] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:19] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:19] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:21] "POST /signup/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:21] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:21] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:21] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:22] "POST /signup/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:22] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:22] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:22] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:33] "GET /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:33] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:33] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:34] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:34] "[36mGET /static/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:44] "GET /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:44] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:44] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:44] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:44] "[36mGET /static/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:47] "[32mGET /about HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:47] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:47] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:47] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:47] "GET /static/images/demo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:47] "GET /static/images/test.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:47] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:08:47] "[36mGET /static/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:10:34] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:10:34] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:10:34] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:10:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:10:34] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:10:34] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:10:34] "[36mGET /static/images/test.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:10:34] "[36mGET /static/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:11:01] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:11:01] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:11:01] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:11:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:11:01] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:11:01] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2023 00:11:01] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 848-819-427
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:46:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:46:43] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:46:43] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:46:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:46:48] "GET /login/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:48:05] "GET /login/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:48:05] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:48:33] "[31m[1mPOST /home/ HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\deepa\\Desktop\\Image to text converter ineuron\\imagetotext1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 848-819-427
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:55:15] "POST /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:55:15] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:55:15] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:55:15] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:55:15] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:57:23] "POST /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:57:23] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:57:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:57:23] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:57:23] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:02] "POST /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:02] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:02] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:02] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:52] "POST /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:52] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:52] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 11:58:52] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:22] "[35m[1mPOST /home/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:22] "GET /home/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:22] "GET /home/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:22] "GET /home/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:22] "[36mGET /home/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:50] "[35m[1mPOST /home/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:50] "[36mGET /home/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:50] "[36mGET /home/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:50] "[36mGET /home/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:01:50] "[36mGET /home/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:02:11] "POST /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:02:11] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:02:11] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:02:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:02:11] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:03:55] "POST /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:03:55] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:03:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:03:55] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:03:55] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:05:36] "POST /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:05:36] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:05:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:05:36] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:05:36] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:06:18] "POST /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:06:18] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:06:18] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:06:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 12:06:18] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 848-819-427
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:41:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:41:23] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:41:23] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:41:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:41:39] "GET /login/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:41:39] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:41:44] "GET /signup/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:41:44] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:41:44] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:10] "POST /login/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:10] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:27] "POST /home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:28] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:28] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:28] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:28] "GET /static/css/style.css HTTP/1.1" 200 -
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:46] "POST /upload/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:46] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:46] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:46] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:50] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:50] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:59] "GET /login/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 13:42:59] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-423-778
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:04] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:04] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:19] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:19] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:19] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:02:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\deepa\\Desktop\\Important\\Image to text converter ineuron\\imagetotext1 - Copy\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-423-778
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-423-778
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:04:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:04:50] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:04:50] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:04:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:04:58] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:04:58] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:04:58] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:04:58] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:04:58] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:11:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:11:33] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:11:33] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-423-778
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:12:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:12:08] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:12:08] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:12:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:12:12] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:12:12] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:12:12] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:12:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:12:12] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:14:19] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:14:19] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:14:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:14:19] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:14:19] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:15:34] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:15:34] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:15:34] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:15:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:15:34] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:01] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:01] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:01] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:01] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:27] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:27] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:27] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:16:27] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:17:10] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:17:10] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:17:10] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:17:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:17:10] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:06] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:06] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:06] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:06] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:25] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:25] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:25] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:25] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:54] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:54] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:55] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:18:55] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:32] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:32] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:32] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:32] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:49] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:49] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:49] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:49] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:49] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:19:49] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:21:55] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:21:55] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:21:55] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:21:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:21:55] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:21:55] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:21:55] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:22:56] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:22:56] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:22:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:22:56] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:22:56] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:22:56] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:22:56] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:29] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:29] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:29] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:29] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:29] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:29] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:37] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:37] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:37] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:37] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:37] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:37] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:39] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:39] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:39] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:39] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:39] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:39] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:39] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:40] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:40] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:40] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:40] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:40] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:41] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:41] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:41] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:41] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:41] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:41] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:43] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:43] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:43] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:43] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:43] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2023 11:23:43] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-152-281
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:04:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:04:40] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:04:40] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:04:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:05:54] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:05:54] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:05:54] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:05:54] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:05:54] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:01] "POST /upload/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:01] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:01] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:01] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:06] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:06] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:08] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:08] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:08] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:08] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:38] "POST /upload/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:38] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:06:56] "GET /gettext HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:07:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:07:14] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:07:14] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:07:17] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:07:17] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:07:17] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:07:17] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 15:07:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-152-281
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:05] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:05] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:07] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:07] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:07] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:08] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:20] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:20] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:20] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:20] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:20] "[33mGET /static/images/demo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:12:20] "[33mGET /static/images/test.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:13:59] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:13:59] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:13:59] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:13:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:13:59] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:14:25] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:14:25] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:14:25] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:14:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:14:25] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:18:47] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:18:47] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:18:47] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:18:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:18:47] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:19:43] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:19:43] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:19:43] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:19:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:19:43] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\deepa\\Desktop\\imagetotext1 - Copy\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-152-281
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-152-281
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:22] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:22] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:33] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:33] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:33] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:33] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:39] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:39] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:39] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:39] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:43] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:43] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:43] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:43] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:45] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:45] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:45] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:45] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:46] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:46] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:46] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:46] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:47] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:47] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:47] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:47] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:48] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:48] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:48] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:48] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:50] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:50] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:50] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:50] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:52] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:52] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:52] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:52] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:54] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:54] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:54] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:54] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:56] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:56] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:56] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:56] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:57] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:57] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:57] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:44:57] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:22] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:22] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:22] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:22] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:25] "[35m[1mGET /contact HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:25] "GET /contact?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:25] "GET /contact?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:25] "GET /contact?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:46:25] "[36mGET /contact?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\deepa\\Desktop\\imagetotext1 - Copy\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-152-281
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:04] "GET /help HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:04] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:04] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:04] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:15] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:16] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:16] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:16] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:20] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:20] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:20] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:20] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:21] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:21] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:21] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:21] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:25] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:25] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:25] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:25] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:44] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:44] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:48] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:48] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:48] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:47:48] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-152-281
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:54:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:54:33] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:54:33] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:54:56] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:54:57] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:54:57] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:54:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:54:57] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:09] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:09] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:09] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:09] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:14] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:14] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:14] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:14] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:18] "GET /help HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:18] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:18] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:18] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:20] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:20] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:20] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:20] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:34] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:34] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:34] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:34] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:35] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:35] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:35] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:35] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:38] "GET /help HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:38] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:38] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:38] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:40] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:40] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:40] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:55:40] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:59:34] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:59:34] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:59:34] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:59:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 14:59:34] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:06:59] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:06:59] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:06:59] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:06:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:06:59] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:08:25] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:08:25] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:08:25] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:08:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:08:25] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:09:45] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:09:45] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:09:45] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:09:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:09:45] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:26] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:26] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:26] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:26] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:29] "GET /about/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:29] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:29] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:29] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:36] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:36] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:36] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:36] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:47] "GET /help HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:47] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:47] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:57:47] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:59:31] "GET /index/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:59:31] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:59:31] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:59:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/May/2023 15:59:31] "[36mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 304 -
